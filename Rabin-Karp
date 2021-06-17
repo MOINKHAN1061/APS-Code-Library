@@ -24,7 +24,7 @@ def search(pat, txt, q):
             if t < 0:
                 t = t+q
  
-txt = "GEEKS FOR GEEKS"
-pat = "GEEK"
+txt = "MOINKHAANN"
+pat = "MOIN"
 q = 101
 search(pat,txt,q)
