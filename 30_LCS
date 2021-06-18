@@ -13,4 +13,4 @@ def lcs(X , Y):
     return L[m][n]
 X = "AGGTAB"
 Y = "GXTXAYB"
-print "Length of LCS is ", lcs(X, Y)
+print (lcs(X, Y))
